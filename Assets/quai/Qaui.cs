@@ -136,3 +136,4 @@ public class QuaiController : MonoBehaviour
         Destroy(gameObject, 2f); // Hủy sau 2 giây
     }
 }
+ 
